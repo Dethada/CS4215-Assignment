@@ -23,5 +23,6 @@
 | LDFS x      | Load function symbolic    |
 | CALL        | Call function             |
 | RTN         | Return from function      |
+| POP         | Pop value from stash      |
 
 
