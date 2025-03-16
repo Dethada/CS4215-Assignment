@@ -21,7 +21,7 @@
 | JOFR i      | relative jump if false    |
 | LDS x       | Load symbolic             |
 | LDFS x      | Load function symbolic    |
-| CALL i      | Call function             |
+| CALL        | Call function             |
 | RTN         | Return from function      |
 
 
