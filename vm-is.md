@@ -5,13 +5,13 @@
 | DONE        | last instruction          |
 | LDCN i      | i is a number             |
 | LDCB b      | b is boolean              |
-| PLUS        | addition                  |
-| MINUS       | subtraction               |
-| TIMES       | multiplication            |
+| ADD         | addition                  |
+| SUB         | subtraction               |
+| MUL         | multiplication            |
 | DIV         | division                  |
 | AND         | conjunction               |
 | OR          | disjunction               |
-| NOT         | negation                  |
+| NEG         | negation                  |
 | LT          | less-than                 |
 | GT          | greater-than              |
 | EQ          | equality                  |
