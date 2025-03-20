@@ -1,8 +1,15 @@
 {
     "compilerOptions": {
-        "module": "ESNext",
-        "moduleResolution": "bundler",
-        "target": "es2023",
-        "sourceMap": true
-    }
-}
+      "target": "ES5",
+      "module": "ESNext",
+      "strict": true,
+      "esModuleInterop": true,
+      "moduleResolution": "node",
+      "outDir": "./dist",
+      "declaration": false
+    },
+    "include": [
+      "src/**/*"
+    ]
+  }
+  
